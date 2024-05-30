@@ -1,4 +1,4 @@
-package ResturantManagementSystem;
+
 
 public class Customer {
    private String name;
